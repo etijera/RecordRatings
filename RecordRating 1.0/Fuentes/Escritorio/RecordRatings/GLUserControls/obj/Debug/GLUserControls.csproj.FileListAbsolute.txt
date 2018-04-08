@@ -1,0 +1,978 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FindAll.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResGen.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResGen.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll.licenses
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FindAll.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResGen.read.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\ResGen.write.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll.licenses
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.pdb
+D:\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.dll
+D:\GL3\General Ledger\GLUserControls\bin\Debug\GLUserControls.pdb
+D:\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.dll
+D:\GL3\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\GL3\General Ledger\GLUserControls\bin\Debug\office.dll
+D:\GL3\General Ledger\GLUserControls\bin\Debug\GLReferences.pdb
+D:\GL3\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\GL3\General Ledger\GLUserControls\bin\Debug\office.xml
+D:\GL3\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+D:\GL3\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls_MarkupCompile.cache
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls_MarkupCompile.lref
+D:\GL3\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.g.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FindAll.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.pdb
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+D:\GL3\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\bin\Debug\GLUserControls.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\bin\Debug\GLUserControls.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\bin\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\bin\Debug\GLReferences.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls_MarkupCompile.cache
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls_MarkupCompile.lref
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.g.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonCmiButtons.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileExplorerControl.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileSystemTreeView.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetConcepto.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGrafico.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.GuiaColores.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptGrafico.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\ResGen.read.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\ResGen.write.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll.licenses
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt2.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\GL0037.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\GL0037.pdb
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\bin\Debug\GL0036.pdb
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.cache
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.lref
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.g.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturaHuella.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonCmiButtons.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicadorCliente.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileExplorerControl.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileSystemTreeView.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetConcepto.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetVendedor.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoCambio.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetSeccion.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetActividadesCot.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCargo.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCajaMenor.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCliente.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCotizaciones.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCuentasBancarias.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrioridad.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetServicio.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTarifaIva.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetFuente.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetRetenciones.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTecnico.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoUsuario.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetUsuario.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGrafico.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicador.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt2.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.GuiaColores.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCiudad.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoNomina.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPensionesCesantias.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPlantillasConceptos.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTiposNomina.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptGrafico.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.dll.licenses
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.pdb
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\GL0037.dll
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\GL0037.pdb
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\GL0036.dll
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\GL0036.pdb
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.cache
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.lref
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.g.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturaHuella.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonCmiButtons.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPrecioEscalas.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmGetPresupuesto.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicadorCliente.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileExplorerControl.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileSystemTreeView.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetConcepto.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetVendedor.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoCambio.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetSeccion.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetActividadesCot.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCargo.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCajaMenor.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCliente.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCotizaciones.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCuentasBancarias.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrioridad.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetServicio.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTarifaIva.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetFuente.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetRetenciones.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTecnico.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoUsuario.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetUsuario.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGrafico.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicador.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt2.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.GuiaColores.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCiudad.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoNomina.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPensionesCesantias.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPlantillasConceptos.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTiposNomina.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmTrazabilidad.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptGrafico.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.dll.licenses
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.dll
+D:\PROYECTO NET\trunk\General Ledger\GLUserControls\obj\Debug\GL0037.pdb
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\bin\Debug\GL0037.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\bin\Debug\GL0037.pdb
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\bin\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\bin\Debug\GL0036.pdb
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.cache
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.lref
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037.g.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Asterisco.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturaHuella.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturarValor.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonCmiButtons.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetArticulos.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetActividadesEc.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoDian.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrecios.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTercero.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTopes.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowItArticulo.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPrecioEscalas.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmGetPresupuesto.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicadorCliente.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileExplorerControl.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileSystemTreeView.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetConcepto.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetVendedor.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoCambio.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetSeccion.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetActividadesCot.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCargo.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCajaMenor.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCliente.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCotizaciones.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCuentasBancarias.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrioridad.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetServicio.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTarifaIva.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetFuente.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetRetenciones.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTecnico.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoUsuario.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetUsuario.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGrafico.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicador.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt2.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.GuiaColores.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCiudad.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoNomina.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPensionesCesantias.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPlantillasConceptos.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTiposNomina.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmTrazabilidad.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptGrafico.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037.dll.licenses
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLUserControls\obj\Debug\GL0037.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\GL0037.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\GL0037.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\GL0036.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\office.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\GL0036.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\ResolveAssemblyReference.cache
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.cache
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.lref
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.baml
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037.g.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Asterisco.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CabeceraFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturaHuella.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CapturarValor.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonCmiButtons.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.CommonToolBarFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmDetalleServicio.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetBanco.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetBaños.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCliente.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCotizacionesClub.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetResolucion.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetServicioAduana.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetArticulos.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetActividadesEc.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoDian.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrecios.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTercero.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTopes.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowItArticulo.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPrecioEscalas.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmGetPresupuesto.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicadorCliente.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.EscalaFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileExplorerControl.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FileExplorer.FileSystemTreeView.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmConfigTrazas.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetColumnaTraza.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetConcepto.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetRazones.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetVendedor.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoCambio.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetSeccion.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGetActividadesCot.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCargo.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCajaMenor.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCliente2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCotizaciones.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCuentasBancarias.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPrioridad.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetServicio.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTarifaIva.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetFuente.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetRetenciones.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTecnico.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTipoUsuario.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetUsuario.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGrafico.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGraficoIndicador.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowConceptos.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowIt2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmTrazabilidad.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.GridFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.GuiaColores.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetCiudad.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetConceptoNomina.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPensionesCesantias.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetPlantillasConceptos.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetTiposNomina.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.ObtenerDatosFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmTrazabilidad.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Presupuestos.FrmTrazabilidadAduanas.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptGrafico.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.TotalesFactura.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Trazabilidad.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblConceptos.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.XtraUserControl1.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\ResGen.read.1.tlog
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\ResGen.write.1.tlog
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037.dll.licenses
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037.dll
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GL0037.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\bin\Debug\office.xml
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetpro2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.txtNumerico.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetpro.resources
+E:\GlerpUltimateUnited2\General Ledger\GLUserControls\obj\Debug\GLUserControls.FrmGet.FrmGetVendedor1.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\MultiSelector\MultiSelector.g.cs
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.cache
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GL0037_MarkupCompile.lref
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GL0037.dll
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLUserControls\obj\Debug\GL0037.pdb
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\Referencias.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\Referencias.pdb
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Inst ETM\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.AcceptCancel.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.BasicForm.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.ButtonBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonTextBox.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.CommonToolBar2G.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Consecutivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.DatosPersona.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmFacturaFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetPeriodo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFechaOne.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Fecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetCodeName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmGetName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionesPrint.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmOpcionImprimir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmSeleccionarAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowIt.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.FrmShowPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RangoFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.Reports.RptProveedor.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.RptPerfilGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.TxtLblGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\GLUserControls.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Debug\ControlesUsuario.pdb

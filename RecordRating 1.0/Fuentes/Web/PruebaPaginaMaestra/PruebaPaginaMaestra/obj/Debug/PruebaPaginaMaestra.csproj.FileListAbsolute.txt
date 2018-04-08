@@ -1,0 +1,6 @@
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\bin\PruebaPaginaMaestra.dll.config
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\bin\PruebaPaginaMaestra.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\bin\PruebaPaginaMaestra.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\obj\Debug\PruebaPaginaMaestra.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\obj\Debug\PruebaPaginaMaestra.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\PruebaPaginaMaestra\PruebaPaginaMaestra\obj\Debug\PruebaPaginaMaestra.pdb

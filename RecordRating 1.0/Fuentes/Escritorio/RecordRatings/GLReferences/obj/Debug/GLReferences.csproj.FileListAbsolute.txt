@@ -1,0 +1,304 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResGen.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResGen.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResGen.read.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\ResGen.write.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.pdb
+D:\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.dll
+D:\GL3\General Ledger\GLReferences\bin\Debug\GLReferences.pdb
+D:\GL3\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\GL3\General Ledger\GLReferences\bin\Debug\office.dll
+D:\GL3\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\GL3\General Ledger\GLReferences\bin\Debug\office.xml
+D:\GL3\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+D:\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\GL3\General Ledger\GLReferences\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\GL3\General Ledger\GLReferences\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.dll
+D:\GL3\General Ledger\GLReferences\obj\Debug\GLReferences.pdb
+D:\GL3\General Ledger\GLReferences\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\bin\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\bin\Debug\GLReferences.pdb
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\ResGen.read.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\ResGen.write.1.tlog
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\GLReferences.dll
+C:\Users\etijera\Documents\Visual Studio 2010\Projects\GLERP\General Ledger\GLReferences\obj\Debug\GLReferences.pdb
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\bin\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\bin\Debug\GL0036.pdb
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GL0036.dll.licenses
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimate\trunk\General Ledger\GLReferences\obj\Debug\GL0036.pdb
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\GL0036.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\GL0036.pdb
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\office.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\bin\Debug\office.xml
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GL0036.dll.licenses
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GL0036.dll
+D:\PROYECTO NET\trunk\General Ledger\GLReferences\obj\Debug\GL0036.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\GL0036.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\GL0036.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\office.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\ResolveAssemblyReference.cache
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\ResGen.read.1.tlog
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\ResGen.write.1.tlog
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GL0036.dll
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GL0036.pdb
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\bin\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\bin\Debug\GL0036.pdb
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GL0036.dll
+D:\General Ledger\GlerpUltimateUnited\General Ledger\GLReferences\obj\Debug\GL0036.pdb
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+E:\GlerpUltimateUnited2\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Trabajo\Archivos General Ledger\FUENTES\General Ledger_FUUL\General Ledger\GLReferences\obj\Debug\GL0036.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyecto Carazo\Adicionales\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\Referencias.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\Referencias.pdb
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.dll
+D:\Inst ETM\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\GLReferences\obj\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\GLReferences\obj\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\GLReferences\obj\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptFacturas2.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasImb.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedio.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GlRereferences.Reports.RptFacturasMedioImb.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptNotaContableSt.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.Reports.RptRemiDevoEmpaque.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\GLReferences.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLReferences\obj\Debug\Referencias.pdb

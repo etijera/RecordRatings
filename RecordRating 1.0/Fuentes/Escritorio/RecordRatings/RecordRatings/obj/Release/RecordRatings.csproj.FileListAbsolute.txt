@@ -1,0 +1,204 @@
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe.config
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.ResolveComReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursosPorAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMateriasPorCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmImprimirBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsultarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmRegistrarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCarga.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmInstitucion.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmLogin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmPrincipal.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmSalir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe.config
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.ResolveComReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursosPorAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMateriasPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCarga.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmLogin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmSalir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetBackup.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe.config
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\Settings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.ResolveComReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursosPorAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMateriasPorCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Reportes.RptBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetBackup.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmImprimirBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmConsultarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmRegistrarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmCarga.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmInstitucion.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmListaUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmLogin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmGetUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmPrincipal.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.Vistas.FrmSalir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\GitHub\RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Release\RecordRatings.exe.config
+G:\Trabajo\Fuentes_RecordRatings\GitHub\RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.csproj.ResolveComReference.cache
+G:\Trabajo\Fuentes_RecordRatings\GitHub\RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\GitHub\RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Release\RecordRatings.pdb

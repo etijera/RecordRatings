@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Cabecera">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodigoAlum" type="xs:string" minOccurs="0" />
+              <xs:element name="Alumno" type="xs:string" minOccurs="0" />
+              <xs:element name="CodigoCurso" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreCurso" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Detalle">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodigoAlum" type="xs:string" minOccurs="0" />
+              <xs:element name="CodArea" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreArea" type="xs:string" minOccurs="0" />
+              <xs:element name="CodMateria" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreMateria" type="xs:string" minOccurs="0" />
+              <xs:element name="NotaFinal" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ValorPorcPeriodo1" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PorcPeriodo1" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ValorPorcPeriodo2" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PorcPeriodo2" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ValorPorcPeriodo3" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PorcPeriodo3" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ValorPorcPeriodo4" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PorcPeriodo4" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SumaPeriodos" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DesempeñoMateria" type="xs:string" minOccurs="0" />
+              <xs:element name="Fallas" type="xs:int" minOccurs="0" />
+              <xs:element name="Porcentaje" type="xs:int" minOccurs="0" />
+              <xs:element name="ValorPorcentual" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//Cabecera" />
+      <xs:field xpath="CodigoAlum" />
+    </xs:unique>
+    <xs:keyref name="Relacion" refer="Constraint1">
+      <xs:selector xpath=".//Detalle" />
+      <xs:field xpath="CodigoAlum" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

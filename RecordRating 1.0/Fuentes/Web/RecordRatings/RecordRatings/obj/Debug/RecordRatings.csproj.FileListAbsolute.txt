@@ -1,0 +1,6 @@
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\bin\RecordRatings.dll.config
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\bin\RecordRatings.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\bin\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\obj\Debug\RecordRatings.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Web\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb

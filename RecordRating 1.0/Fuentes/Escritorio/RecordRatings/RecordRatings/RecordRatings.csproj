@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E57CB11D-E787-4CCD-9FFB-B8499C81A426}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RecordRatings</RootNamespace>
+    <AssemblyName>RecordRatings</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoEsferaRcRt3.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2.Extensions, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Alumno.cs" />
+    <Compile Include="Clases\Area.cs" />
+    <Compile Include="Clases\Curso.cs" />
+    <Compile Include="Clases\CursoAlumno.cs" />
+    <Compile Include="Clases\CursoAñoElectivo.cs" />
+    <Compile Include="Clases\Desempeño.cs" />
+    <Compile Include="Clases\Institucion.cs" />
+    <Compile Include="Clases\Grado.cs" />
+    <Compile Include="Clases\Grupo.cs" />
+    <Compile Include="Clases\Materia.cs" />
+    <Compile Include="Clases\MateriasCurso.cs" />
+    <Compile Include="Clases\Nivel.cs" />
+    <Compile Include="Clases\Periodo.cs" />
+    <Compile Include="Clases\Persona.cs" />
+    <Compile Include="Clases\Profesor.cs" />
+    <Compile Include="Clases\ProfesorMaterias.cs" />
+    <Compile Include="Clases\RegistroNota.cs" />
+    <Compile Include="Clases\TipoUsuario.cs" />
+    <Compile Include="Clases\Usuario.cs" />
+    <Compile Include="Controladores\CtrlAlumnos.cs" />
+    <Compile Include="Controladores\CtrlBackup.cs" />
+    <Compile Include="Controladores\CtrlAreas.cs" />
+    <Compile Include="Controladores\CtrlCursoAlumnos.cs" />
+    <Compile Include="Controladores\CtrlCursoAñoElectivo.cs" />
+    <Compile Include="Controladores\CtrlCursos.cs" />
+    <Compile Include="Controladores\CtrlDesempeños.cs" />
+    <Compile Include="Controladores\CtrlGrados.cs" />
+    <Compile Include="Controladores\CtrlGrupos.cs" />
+    <Compile Include="Controladores\CtrlInstitucion.cs" />
+    <Compile Include="Controladores\CtrlMaterias.cs" />
+    <Compile Include="Controladores\CtrlMateriasCursos.cs" />
+    <Compile Include="Controladores\CtrlNiveles.cs" />
+    <Compile Include="Controladores\CtrlPeriodos.cs" />
+    <Compile Include="Controladores\CtrlProfesores.cs" />
+    <Compile Include="Controladores\CtrlProfesorMaterias.cs" />
+    <Compile Include="Controladores\CtrlRegistroNotas.cs" />
+    <Compile Include="Controladores\CtrlUsuarios.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptAlumnosPorCurso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptAlumnosPorCurso.Designer.cs">
+      <DependentUpon>RptAlumnosPorCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptCursosPorAño.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptCursosPorAño.Designer.cs">
+      <DependentUpon>RptCursosPorAño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptCursos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptCursos.Designer.cs">
+      <DependentUpon>RptCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptMateriasPorCurso.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptMateriasPorCurso.Designer.cs">
+      <DependentUpon>RptMateriasPorCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptMaterias.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptMaterias.Designer.cs">
+      <DependentUpon>RptMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptAreas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptAreas.Designer.cs">
+      <DependentUpon>RptAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptProfesores.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptProfesores.Designer.cs">
+      <DependentUpon>RptProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptAlumnos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptAlumnos.Designer.cs">
+      <DependentUpon>RptAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RptBoletin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RptBoletin.Designer.cs">
+      <DependentUpon>RptBoletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmCursoAñoElectivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmCursoAñoElectivo.Designer.cs">
+      <DependentUpon>FrmCursoAñoElectivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmConsolidadoXCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmConsolidadoXCurso.Designer.cs">
+      <DependentUpon>FrmConsolidadoXCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmEditEstadoCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmEditEstadoCurso.Designer.cs">
+      <DependentUpon>FrmEditEstadoCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetBackup.Designer.cs">
+      <DependentUpon>FrmGetBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetProfesorMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetProfesorMaterias.Designer.cs">
+      <DependentUpon>FrmGetProfesorMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGenerarPlanilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGenerarPlanilla.Designer.cs">
+      <DependentUpon>FrmGetGenerarPlanilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetConsolidadoXCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetConsolidadoXCurso.Designer.cs">
+      <DependentUpon>FrmGetConsolidadoXCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetRegistroNotasAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetRegistroNotasAdmin.Designer.cs">
+      <DependentUpon>FrmGetRegistroNotasAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmImprimirBoletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmImprimirBoletin.Designer.cs">
+      <DependentUpon>FrmImprimirBoletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmConsultarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmConsultarNotas.Designer.cs">
+      <DependentUpon>FrmConsultarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmRegistrarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmRegistrarNotas.Designer.cs">
+      <DependentUpon>FrmRegistrarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmAsignarAlumCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmAsignarAlumCursos.Designer.cs">
+      <DependentUpon>FrmAsignarAlumCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmCarga.designer.cs">
+      <DependentUpon>FrmCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetRegistroNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetRegistroNotas.Designer.cs">
+      <DependentUpon>FrmGetRegistroNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetMateriasCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetMateriasCursos.Designer.cs">
+      <DependentUpon>FrmGetMateriasCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetDesempeños.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetDesempeños.Designer.cs">
+      <DependentUpon>FrmGetDesempeños.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGrados.Designer.cs">
+      <DependentUpon>FrmGetGrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetGrupos.Designer.cs">
+      <DependentUpon>FrmGetGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetCursos.Designer.cs">
+      <DependentUpon>FrmGetCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetPeriodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetPeriodos.Designer.cs">
+      <DependentUpon>FrmGetPeriodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetNiveles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetNiveles.Designer.cs">
+      <DependentUpon>FrmGetNiveles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetProfesores.Designer.cs">
+      <DependentUpon>FrmGetProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetAlumnos.Designer.cs">
+      <DependentUpon>FrmGetAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetAreas.Designer.cs">
+      <DependentUpon>FrmGetAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetMaterias.Designer.cs">
+      <DependentUpon>FrmGetMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmInstitucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmInstitucion.Designer.cs">
+      <DependentUpon>FrmInstitucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmAsignarMatCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmAsignarMatCursos.Designer.cs">
+      <DependentUpon>FrmAsignarMatCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaCursos.Designer.cs">
+      <DependentUpon>FrmListaCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaGrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaGrados.Designer.cs">
+      <DependentUpon>FrmListaGrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaGrupos.Designer.cs">
+      <DependentUpon>FrmListaGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaDesempeños.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaDesempeños.Designer.cs">
+      <DependentUpon>FrmListaDesempeños.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaPeriodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaPeriodos.Designer.cs">
+      <DependentUpon>FrmListaPeriodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaNiveles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaNiveles.Designer.cs">
+      <DependentUpon>FrmListaNiveles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaMaterias.Designer.cs">
+      <DependentUpon>FrmListaMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaAreas.Designer.cs">
+      <DependentUpon>FrmListaAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaProfesores.Designer.cs">
+      <DependentUpon>FrmListaProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaAlumnos.Designer.cs">
+      <DependentUpon>FrmListaAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmListaUsuarios.Designer.cs">
+      <DependentUpon>FrmListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmGetUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmGetUsuarios.Designer.cs">
+      <DependentUpon>FrmGetUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\FrmSalir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\FrmSalir.Designer.cs">
+      <DependentUpon>FrmSalir.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptAlumnosPorCurso.resx">
+      <DependentUpon>RptAlumnosPorCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptCursosPorAño.resx">
+      <DependentUpon>RptCursosPorAño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptCursos.resx">
+      <DependentUpon>RptCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptMateriasPorCurso.resx">
+      <DependentUpon>RptMateriasPorCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptMaterias.resx">
+      <DependentUpon>RptMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptAreas.resx">
+      <DependentUpon>RptAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptProfesores.resx">
+      <DependentUpon>RptProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptAlumnos.resx">
+      <DependentUpon>RptAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptBoletin.resx">
+      <DependentUpon>RptBoletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmCursoAñoElectivo.resx">
+      <DependentUpon>FrmCursoAñoElectivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmConsolidadoXCurso.resx">
+      <DependentUpon>FrmConsolidadoXCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmEditEstadoCurso.resx">
+      <DependentUpon>FrmEditEstadoCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetBackup.resx">
+      <DependentUpon>FrmGetBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetProfesorMaterias.resx">
+      <DependentUpon>FrmGetProfesorMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetGenerarPlanilla.resx">
+      <DependentUpon>FrmGetGenerarPlanilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetConsolidadoXCurso.resx">
+      <DependentUpon>FrmGetConsolidadoXCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetRegistroNotasAdmin.resx">
+      <DependentUpon>FrmGetRegistroNotasAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmImprimirBoletin.resx">
+      <DependentUpon>FrmImprimirBoletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmConsultarNotas.resx">
+      <DependentUpon>FrmConsultarNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmRegistrarNotas.resx">
+      <DependentUpon>FrmRegistrarNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmAsignarAlumCursos.resx">
+      <DependentUpon>FrmAsignarAlumCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmCarga.resx">
+      <DependentUpon>FrmCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetRegistroNotas.resx">
+      <DependentUpon>FrmGetRegistroNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetMateriasCursos.resx">
+      <DependentUpon>FrmGetMateriasCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetDesempeños.resx">
+      <DependentUpon>FrmGetDesempeños.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetGrados.resx">
+      <DependentUpon>FrmGetGrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetGrupos.resx">
+      <DependentUpon>FrmGetGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetCursos.resx">
+      <DependentUpon>FrmGetCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetPeriodos.resx">
+      <DependentUpon>FrmGetPeriodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetNiveles.resx">
+      <DependentUpon>FrmGetNiveles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetProfesores.resx">
+      <DependentUpon>FrmGetProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetAlumnos.resx">
+      <DependentUpon>FrmGetAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetAreas.resx">
+      <DependentUpon>FrmGetAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetMaterias.resx">
+      <DependentUpon>FrmGetMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmInstitucion.resx">
+      <DependentUpon>FrmInstitucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmAsignarMatCursos.resx">
+      <DependentUpon>FrmAsignarMatCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaCursos.resx">
+      <DependentUpon>FrmListaCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaGrados.resx">
+      <DependentUpon>FrmListaGrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaGrupos.resx">
+      <DependentUpon>FrmListaGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaDesempeños.resx">
+      <DependentUpon>FrmListaDesempeños.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaPeriodos.resx">
+      <DependentUpon>FrmListaPeriodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaNiveles.resx">
+      <DependentUpon>FrmListaNiveles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaMaterias.resx">
+      <DependentUpon>FrmListaMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaAreas.resx">
+      <DependentUpon>FrmListaAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaProfesores.resx">
+      <DependentUpon>FrmListaProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaAlumnos.resx">
+      <DependentUpon>FrmListaAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmListaUsuarios.resx">
+      <DependentUpon>FrmListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmGetUsuarios.resx">
+      <DependentUpon>FrmGetUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\FrmSalir.resx">
+      <DependentUpon>FrmSalir.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GLReferences\GLReferences.csproj">
+      <Project>{6274f1f5-adbf-4ba7-99f2-e7eff4f74781}</Project>
+      <Name>GLReferences</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GLUserControls\GLUserControls.csproj">
+      <Project>{0b378e37-09b3-46bd-b7e5-c7b128fde9b1}</Project>
+      <Name>GLUserControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Settings\Settings.csproj">
+      <Project>{8d6dc037-6928-4027-9b1a-50ee4e880191}</Project>
+      <Name>Settings</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Circle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioSesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InisioSessionRecordRatingsP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoVentanasMain.png" />
+    <None Include="Resources\FondoPanel81.png" />
+    <None Include="Resources\FondoPanel8.png" />
+    <None Include="Resources\FondoPanel7.png" />
+    <None Include="Resources\Entrar3.png" />
+    <None Include="Resources\Entra1r.png" />
+    <None Include="Resources\Entrar2.png" />
+    <None Include="Resources\Entrar.png" />
+    <None Include="Resources\FondoPanel6.png" />
+    <None Include="Resources\FondoPanel31.png" />
+    <None Include="Resources\FondoPanel51.png" />
+    <None Include="Resources\FondoPanel5.png" />
+    <None Include="Resources\FondoPanel4.png" />
+    <None Include="Resources\FondoPanel3.png" />
+    <None Include="Resources\FondoPanel21.png" />
+    <None Include="Resources\FondoPanel2.png" />
+    <None Include="Resources\FondoVentanas31.png" />
+    <None Include="Resources\FondoPanel1.png" />
+    <None Include="Resources\FondoVentanas3.png" />
+    <None Include="Resources\FondoPanel.png" />
+    <None Include="Resources\FondoVentanas2.png" />
+    <None Include="Resources\FondoVentanas1.png" />
+    <None Include="Resources\1425430017_14.png" />
+    <None Include="Resources\LogoEsferaRcRt3.png" />
+    <None Include="Resources\Fondo Color Profesional2.png" />
+    <None Include="Resources\Fondo Color Profesional1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LogoEsferaRcRt3.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

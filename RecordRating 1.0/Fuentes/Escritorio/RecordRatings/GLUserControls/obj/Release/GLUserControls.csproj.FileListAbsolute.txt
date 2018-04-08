@@ -1,0 +1,120 @@
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Interaction.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.AcceptCancel.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.BasicForm.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.ButtonBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonTextBox.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2G.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Consecutivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.DatosPersona.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmFacturaFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetPeriodo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFechaOne.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Fecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmAñadirEditarPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetCodeName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionesPrint.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionImprimir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmSeleccionarAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowIt.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RangoFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Reports.RptProveedor.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RptPerfilGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.TxtLblGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.AcceptCancel.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.BasicForm.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.ButtonBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonTextBox.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2G.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Consecutivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.DatosPersona.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmFacturaFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetPeriodo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFechaOne.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Fecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmAñadirEditarPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetCodeName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetName.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionesPrint.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionImprimir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmSeleccionarAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowIt.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowPerfiles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RangoFecha.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Reports.RptProveedor.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RptPerfilGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.TxtLblGeneral.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Interaction.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Interaction.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\bin\Release\es\Microsoft.Windows.Design.Extensibility.resources.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.AcceptCancel.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.BasicForm.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.ButtonBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonTextBox.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.CommonToolBar2G.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Consecutivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.DatosPersona.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmFacturaFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetPeriodo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFechaOne.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Fecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmAñadirEditarPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetCodeName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmGetName.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionesPrint.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmOpcionImprimir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmSeleccionarAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowIt.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.FrmShowPerfiles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RangoFecha.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.Reports.RptProveedor.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.RptPerfilGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.TxtLblGeneral.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\GLUserControls.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\GLUserControls\obj\Release\ControlesUsuario.pdb

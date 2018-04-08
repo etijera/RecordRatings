@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RecordRatingsMin", "RecordRatingsMin\RecordRatingsMin.vdproj", "{58A15276-16DC-4EC5-9251-442C92040EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A15276-16DC-4EC5-9251-442C92040EF2}.Debug|Default.ActiveCfg = Release
+		{58A15276-16DC-4EC5-9251-442C92040EF2}.Debug|Default.Build.0 = Release
+		{58A15276-16DC-4EC5-9251-442C92040EF2}.Release|Default.ActiveCfg = Release
+		{58A15276-16DC-4EC5-9251-442C92040EF2}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

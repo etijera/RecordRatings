@@ -1,0 +1,412 @@
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\bin\Debug\RecordRatings.exe.config
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\RecordRatings.exe.config
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.exe.licenses
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\RecordRatings\Gargape\obj\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+D:\Inst ETM\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+G:\Maquinas virtuales\Compartida\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptProfesores.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursos.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMaterias.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAreas.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursosPorAño.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMateriasPorCurso.resources
+G:\Trabajo\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursosPorAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMateriasPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe.config
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\RecordRatings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.dll
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Settings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Referencias.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\ControlesUsuario.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\bin\Debug\Settings.pdb
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csprojResolveAssemblyReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.ResolveComReference.cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Properties.Resources.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnosPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursosPorAño.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMateriasPorCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Reportes.RptBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCursoAñoElectivo.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmEditEstadoCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesorMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGenerarPlanilla.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmImprimirBoletin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmConsultarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmRegistrarNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarAlumCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmCarga.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetRegistroNotas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMateriasCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmInstitucion.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmAsignarMatCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaCursos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrados.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaGrupos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaDesempeños.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaPeriodos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaNiveles.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaMaterias.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAreas.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaProfesores.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaAlumnos.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmListaUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmLogin.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmGetUsuarios.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmPrincipal.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.Vistas.FrmSalir.resources
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.csproj.GenerateResource.Cache
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe.licenses
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.exe
+D:\Erick\Fuentes_RecordRatings\RecordRating 1.0\Fuentes\Escritorio\RecordRatings\RecordRatings\obj\Debug\RecordRatings.pdb

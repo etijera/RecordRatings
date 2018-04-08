@@ -1,0 +1,161 @@
+D:\Trabajo\Proyectos Practica\Cargape\Gargape\Gargape\bin\Debug\Gargape.exe.config
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\Gargape.exe
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\Gargape.exe.config
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\Gargape.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\bin\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmCarga.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAlumnos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAlumnos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaUsuarios.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmLogin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetUsuarios.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmPrincipal.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.exe.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.exe
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesores.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaProfesores.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmInstitucion.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAreas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAreas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaNiveles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetNiveles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaPeriodos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetPeriodos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrados.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrados.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrupos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrupos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaDesempeños.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetDesempeños.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarMatCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMateriasCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarAlumCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmRegistrarNotas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmImprimirBoletin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Reportes.RptBoletin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesorMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmSalir.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmConsultarNotas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\Gargape.exe
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\ControlesUsuario.dll
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\Referencias.dll
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\Gargape.exe.config
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csproj.ResolveComReference.cache
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\Gargape.pdb
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\Referencias.pdb
+D:\Inst ETM\Proyecto\Gargape\Gargape\bin\Debug\ControlesUsuario.pdb
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csprojResolveAssemblyReference.cache
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Properties.Resources.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Reportes.RptBoletin.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesorMaterias.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmImprimirBoletin.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmConsultarNotas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmRegistrarNotas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarAlumCursos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmCarga.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMateriasCursos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetDesempeños.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrados.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrupos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetCursos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetPeriodos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetNiveles.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesores.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAlumnos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAreas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMaterias.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmInstitucion.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarMatCursos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaCursos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrados.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrupos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaDesempeños.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaPeriodos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaNiveles.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaMaterias.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAreas.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaProfesores.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAlumnos.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaUsuarios.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmLogin.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetUsuarios.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmPrincipal.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmSalir.resources
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csproj.GenerateResource.Cache
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.exe.licenses
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.exe
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.pdb
+D:\Inst ETM\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGenerarPlanilla.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\Gargape.exe.config
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csproj.ResolveComReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.exe
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\Gargape.exe
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\Gargape.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\ControlesUsuario.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\Referencias.dll
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\Referencias.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\bin\Debug\ControlesUsuario.pdb
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csprojResolveAssemblyReference.cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Properties.Resources.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Reportes.RptBoletin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesorMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGenerarPlanilla.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotasAdmin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmImprimirBoletin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmConsultarNotas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmRegistrarNotas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarAlumCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmCarga.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetRegistroNotas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMateriasCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetDesempeños.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrados.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetGrupos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetPeriodos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetNiveles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetProfesores.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAlumnos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetAreas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmInstitucion.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmAsignarMatCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaCursos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrados.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaGrupos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaDesempeños.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaPeriodos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaNiveles.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaMaterias.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAreas.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaProfesores.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaAlumnos.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmListaUsuarios.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmLogin.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetUsuarios.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmPrincipal.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmSalir.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.csproj.GenerateResource.Cache
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.exe.licenses
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmConsolidadoXCurso.resources
+D:\Trabajo\Nuevo Independiente\Proyeto Cargape\Proyecto\Gargape\Gargape\obj\Debug\Gargape.Vistas.FrmGetConsolidadoXCurso.resources
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\bin\Debug\Gargape.exe.config
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\obj\Debug\Gargape.csproj.ResolveComReference.cache
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\obj\Debug\Gargape.exe
+D:\Inst ETM\RecordRating 1.0\Gargape\Gargape\obj\Debug\Gargape.pdb

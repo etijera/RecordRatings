@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B378E37-09B3-46BD-B7E5-C7B128FDE9B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GLUserControls</RootNamespace>
+    <AssemblyName>GL0037</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DXCore.Controls.XtraCharts.v6.3, Version=11.1.4.0, Culture=neutral, PublicKeyToken=35c9f04b7764aa3d, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.2.Design, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.Wizard, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.Design, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.2.Core, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.2.UI, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2.Extensions, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.2, Version=13.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Presupuestos\bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Presupuestos\bin\Debug\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcceptCancel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AcceptCancel.Designer.cs">
+      <DependentUpon>AcceptCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForm.Designer.cs">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonBar.Designer.cs">
+      <DependentUpon>ButtonBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonToolBar.Designer.cs">
+      <DependentUpon>CommonToolBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonToolBar2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonToolBar2.Designer.cs">
+      <DependentUpon>CommonToolBar2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonToolBar2G.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonToolBar2G.Designer.cs">
+      <DependentUpon>CommonToolBar2G.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consecutivo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Consecutivo.Designer.cs">
+      <DependentUpon>Consecutivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosPersona.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DatosPersona.Designer.cs">
+      <DependentUpon>DatosPersona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDetalleServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetalleServicio.Designer.cs">
+      <DependentUpon>FrmDetalleServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFacturaFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFacturaFecha.Designer.cs">
+      <DependentUpon>FrmFacturaFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGetPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGetPeriodo.Designer.cs">
+      <DependentUpon>FrmGetPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGetFechaOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGetFechaOne.Designer.cs">
+      <DependentUpon>FrmGetFechaOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fecha.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fecha.Designer.cs">
+      <DependentUpon>Fecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileExplorer\FileExplorerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FileExplorer\FileExplorerControl.Designer.cs">
+      <DependentUpon>FileExplorerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileExplorer\FileSystemTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FileExplorer\ShellIcon.cs" />
+    <Compile Include="FrmAñadirEditarPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAñadirEditarPerfiles.Designer.cs">
+      <DependentUpon>FrmAñadirEditarPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGetFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGetFecha.Designer.cs">
+      <DependentUpon>FrmGetFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGetCodeName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGetCodeName.Designer.cs">
+      <DependentUpon>FrmGetCodeName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGetName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGetName.Designer.cs">
+      <DependentUpon>FrmGetName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOpcionesPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOpcionesPrint.Designer.cs">
+      <DependentUpon>FrmOpcionesPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOpcionImprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOpcionImprimir.Designer.cs">
+      <DependentUpon>FrmOpcionImprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeleccionarAño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeleccionarAño.Designer.cs">
+      <DependentUpon>FrmSeleccionarAño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowIt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowIt.Designer.cs">
+      <DependentUpon>FrmShowIt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShowPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShowPerfiles.Designer.cs">
+      <DependentUpon>FrmShowPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RangoFecha.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RangoFecha.Designer.cs">
+      <DependentUpon>RangoFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\RptProveedor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RptProveedor.designer.cs">
+      <DependentUpon>RptProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptPerfilGeneral.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RptPerfilGeneral.Designer.cs">
+      <DependentUpon>RptPerfilGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TxtLblGeneral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TxtLblGeneral.Designer.cs">
+      <DependentUpon>TxtLblGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TxtNumerico.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TxtNumerico.Designer.cs">
+      <DependentUpon>TxtNumerico.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AcceptCancel.resx">
+      <DependentUpon>AcceptCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForm.resx">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ButtonBar.resx">
+      <DependentUpon>ButtonBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonToolBar.resx">
+      <DependentUpon>CommonToolBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonToolBar2.resx">
+      <DependentUpon>CommonToolBar2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonToolBar2G.resx">
+      <DependentUpon>CommonToolBar2G.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consecutivo.resx">
+      <DependentUpon>Consecutivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosPersona.resx">
+      <DependentUpon>DatosPersona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetalleServicio.resx">
+      <DependentUpon>FrmDetalleServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFacturaFecha.resx">
+      <DependentUpon>FrmFacturaFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGetPeriodo.resx">
+      <DependentUpon>FrmGetPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGetFechaOne.resx">
+      <DependentUpon>FrmGetFechaOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fecha.resx">
+      <DependentUpon>Fecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileExplorer\FileExplorerControl.resx">
+      <DependentUpon>FileExplorerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileExplorer\FileSystemTreeView.resx">
+      <DependentUpon>FileSystemTreeView.cs</DependentUpon>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>FileSystemTreeView.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAñadirEditarPerfiles.resx">
+      <DependentUpon>FrmAñadirEditarPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGetFecha.resx">
+      <DependentUpon>FrmGetFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGetCodeName.resx">
+      <DependentUpon>FrmGetCodeName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGetName.resx">
+      <DependentUpon>FrmGetName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOpcionesPrint.resx">
+      <DependentUpon>FrmOpcionesPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOpcionImprimir.resx">
+      <DependentUpon>FrmOpcionImprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeleccionarAño.resx">
+      <DependentUpon>FrmSeleccionarAño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowIt.resx">
+      <DependentUpon>FrmShowIt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShowPerfiles.resx">
+      <DependentUpon>FrmShowPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RangoFecha.resx">
+      <DependentUpon>RangoFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptProveedor.resx">
+      <DependentUpon>RptProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptPerfilGeneral.resx">
+      <DependentUpon>RptPerfilGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TxtLblGeneral.resx">
+      <DependentUpon>TxtLblGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TxtNumerico.resx">
+      <DependentUpon>TxtNumerico.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GLReferences\GLReferences.csproj">
+      <Project>{6274F1F5-ADBF-4BA7-99F2-E7EFF4F74781}</Project>
+      <Name>GLReferences</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FileExplorer\icons\folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1363307826_3219.ico" />
+    <None Include="Resources\1363307836_3206.ico" />
+    <Content Include="Resources\Add.png" />
+    <Content Include="Resources\Asterisco.png" />
+    <Content Include="Resources\Delete.png" />
+    <Content Include="Resources\Edit.png" />
+    <Content Include="Resources\Excel.png" />
+    <Content Include="Resources\Print.png" />
+    <Content Include="Resources\Save.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
